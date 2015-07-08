@@ -1,0 +1,1 @@
+item.country_txt==""||item.country_txt=="Argentina"||item.country_txt=="Bolivia"||item.country_txt=="Brazil"||item.country_txt=="Chile"||item.country_txt=="Colombia"||item.country_txt=="Ecuador"||item.country_txt=="Guyana"||item.country_txt=="Paraguay"||item.country_txt=="Peru"||item.country_txt=="Suriname"||item.country_txt=="Uruguay"||item.country_txt=="Venezuela"||
